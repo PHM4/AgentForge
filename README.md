@@ -6,11 +6,21 @@ Built in two ways — from scratch in Python (high-code) and replicated in Dify 
 
 ---
 
+## Screenshots
+
+**Web UI — task input and agent steps**
+
+![UI](docs/UI.png)
+
+**Structured output from a completed run**
+
+![Result](docs/result_.png)
+
+---
+
 ## What it does
 
 Give it a task in plain English. It'll break it down, search the web, read files, write reports, or run code — whatever's needed — then come back with an answer.
-
-**Example:** "Compare the top AI agent frameworks in 2025 and write a summary" → it searches from multiple angles, cross-references the results, and writes a structured report.
 
 It runs on the ReAct pattern:
 ```
