@@ -14,7 +14,7 @@ Built in two ways — from scratch in Python (high-code) and replicated in Dify 
 
 **Structured output from a completed run**
 
-![Result](docs/result_.png)
+![Result](docs/result.png)
 
 ---
 
