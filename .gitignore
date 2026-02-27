@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+eval/results/*.json
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
